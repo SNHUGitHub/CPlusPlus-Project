@@ -1,4 +1,4 @@
-# About project:
+# About
 I developed an object-oriented programming application to create two clocks (one in 12-hour and the other in 24-hour format) that display simultaneously and allow the user to increase an hour, a minute, or a second by selecting the option from a user menu.
 
 # Which pieces of the code was the most challenging to write, and how did I overcome this? What tools or resources am I adding to my support network?
